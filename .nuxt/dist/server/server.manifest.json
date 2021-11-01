@@ -1,0 +1,17 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/favorites.js": "pages/favorites.js",
+    "pages/import.js": "pages/import.js",
+    "pages/index.js": "pages/index.js",
+    "pages/shared.js": "pages/shared.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/favorites.js": "pages/favorites.js.map",
+    "pages/import.js": "pages/import.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/shared.js": "pages/shared.js.map",
+    "server.js": "server.js.map"
+  }
+}

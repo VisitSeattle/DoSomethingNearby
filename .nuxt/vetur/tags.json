@@ -1,0 +1,140 @@
+{
+  "BusinessTypeTag": {
+    "description": "Auto imported from components/atoms/BusinessTypeTag.vue"
+  },
+  "LazyBusinessTypeTag": {
+    "description": "Auto imported from components/atoms/BusinessTypeTag.vue"
+  },
+  "CheckboxFilter": {
+    "description": "Auto imported from components/atoms/CheckboxFilter.vue"
+  },
+  "LazyCheckboxFilter": {
+    "description": "Auto imported from components/atoms/CheckboxFilter.vue"
+  },
+  "CookieConsent": {
+    "description": "Auto imported from components/atoms/CookieConsent.vue"
+  },
+  "LazyCookieConsent": {
+    "description": "Auto imported from components/atoms/CookieConsent.vue"
+  },
+  "CtaLink": {
+    "description": "Auto imported from components/atoms/CtaLink.vue"
+  },
+  "LazyCtaLink": {
+    "description": "Auto imported from components/atoms/CtaLink.vue"
+  },
+  "Divider": {
+    "description": "Auto imported from components/atoms/Divider.vue"
+  },
+  "LazyDivider": {
+    "description": "Auto imported from components/atoms/Divider.vue"
+  },
+  "FilterButtons": {
+    "description": "Auto imported from components/atoms/FilterButtons.vue"
+  },
+  "LazyFilterButtons": {
+    "description": "Auto imported from components/atoms/FilterButtons.vue"
+  },
+  "FilterToggler": {
+    "description": "Auto imported from components/atoms/FilterToggler.vue"
+  },
+  "LazyFilterToggler": {
+    "description": "Auto imported from components/atoms/FilterToggler.vue"
+  },
+  "FluidBanner": {
+    "description": "Auto imported from components/atoms/FluidBanner.vue"
+  },
+  "LazyFluidBanner": {
+    "description": "Auto imported from components/atoms/FluidBanner.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/atoms/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/atoms/Footer.vue"
+  },
+  "IntroductionBlock": {
+    "description": "Auto imported from components/atoms/IntroductionBlock.vue"
+  },
+  "LazyIntroductionBlock": {
+    "description": "Auto imported from components/atoms/IntroductionBlock.vue"
+  },
+  "IntroductionBlockFavorites": {
+    "description": "Auto imported from components/atoms/IntroductionBlockFavorites.vue"
+  },
+  "LazyIntroductionBlockFavorites": {
+    "description": "Auto imported from components/atoms/IntroductionBlockFavorites.vue"
+  },
+  "PlaceItem": {
+    "description": "Auto imported from components/atoms/PlaceItem.vue"
+  },
+  "LazyPlaceItem": {
+    "description": "Auto imported from components/atoms/PlaceItem.vue"
+  },
+  "PlaceItemCategoryIcon": {
+    "description": "Auto imported from components/atoms/PlaceItemCategoryIcon.vue"
+  },
+  "LazyPlaceItemCategoryIcon": {
+    "description": "Auto imported from components/atoms/PlaceItemCategoryIcon.vue"
+  },
+  "PlacesTable": {
+    "description": "Auto imported from components/atoms/PlacesTable.vue"
+  },
+  "LazyPlacesTable": {
+    "description": "Auto imported from components/atoms/PlacesTable.vue"
+  },
+  "ShareDropdown": {
+    "description": "Auto imported from components/atoms/ShareDropdown.vue"
+  },
+  "LazyShareDropdown": {
+    "description": "Auto imported from components/atoms/ShareDropdown.vue"
+  },
+  "SortOptions": {
+    "description": "Auto imported from components/atoms/SortOptions.vue"
+  },
+  "LazySortOptions": {
+    "description": "Auto imported from components/atoms/SortOptions.vue"
+  },
+  "BusinessFilters": {
+    "description": "Auto imported from components/modules/BusinessFilters.vue"
+  },
+  "LazyBusinessFilters": {
+    "description": "Auto imported from components/modules/BusinessFilters.vue"
+  },
+  "CrowdriffGallery": {
+    "description": "Auto imported from components/modules/CrowdriffGallery.vue"
+  },
+  "LazyCrowdriffGallery": {
+    "description": "Auto imported from components/modules/CrowdriffGallery.vue"
+  },
+  "Hero": {
+    "description": "Auto imported from components/modules/Hero.vue"
+  },
+  "LazyHero": {
+    "description": "Auto imported from components/modules/Hero.vue"
+  },
+  "ModalGridCard": {
+    "description": "Auto imported from components/modules/ModalGridCard.vue"
+  },
+  "LazyModalGridCard": {
+    "description": "Auto imported from components/modules/ModalGridCard.vue"
+  },
+  "SubHero": {
+    "description": "Auto imported from components/modules/SubHero.vue"
+  },
+  "LazySubHero": {
+    "description": "Auto imported from components/modules/SubHero.vue"
+  },
+  "VideoGrid": {
+    "description": "Auto imported from components/modules/VideoGrid.vue"
+  },
+  "LazyVideoGrid": {
+    "description": "Auto imported from components/modules/VideoGrid.vue"
+  },
+  "VideoModal": {
+    "description": "Auto imported from components/modules/VideoModal.vue"
+  },
+  "LazyVideoModal": {
+    "description": "Auto imported from components/modules/VideoModal.vue"
+  }
+}

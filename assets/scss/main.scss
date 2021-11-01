@@ -1,0 +1,19 @@
+@import 'fonts';
+
+// Import custom SASS variable overrides, or alternatively
+// define your variable overrides here instead
+@import 'custom-bootstrap-variables';
+
+
+// Include Bootstrap and BootstrapVue SCSS files
+@import '~bootstrap/scss/bootstrap';
+@import '~bootstrap-vue/src/index';
+
+body {
+  font-family: $font-family-akzidenz-grotesk-ce-roman;
+  font-variant-ligatures: none
+}
+
+h1 {
+  font-family: $font-family-akzidenz-grotesk-bq;
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "name": "favorites",
+    "path": "/favorites",
+    "component": "/chroot/home/adaf6693/dosomethingnearby.org/html/pages/favorites.vue",
+    "chunkName": "pages/favorites",
+    "_name": "_ac483612"
+  },
+  {
+    "name": "import",
+    "path": "/import",
+    "component": "/chroot/home/adaf6693/dosomethingnearby.org/html/pages/import.vue",
+    "chunkName": "pages/import",
+    "_name": "_742c2596"
+  },
+  {
+    "name": "shared",
+    "path": "/shared",
+    "component": "/chroot/home/adaf6693/dosomethingnearby.org/html/pages/shared.vue",
+    "chunkName": "pages/shared",
+    "_name": "_463a7416"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/chroot/home/adaf6693/dosomethingnearby.org/html/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_4df8f1f2"
+  }
+]

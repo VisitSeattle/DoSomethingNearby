@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteRule ^(.*)$ https://visitseattle.org/do-something? [R=301,L]
+
+DirectoryIndex
+RewriteEngine on
+RewriteBase /
+RewriteRule ^(.*)?$ http://127.0.0.1:3000/$1 [P,L]

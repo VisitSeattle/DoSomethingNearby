@@ -1,0 +1,53 @@
+//- ------------------------------------------------------- //
+//- ----------------------- COLORS ------------------------ //
+//- ------------------------------------------------------- //
+// from https://app.zeplin.io/project/5f90970fefd2e94076107651/styleguide/colors
+$light-navy-blue: #2f5085;
+$bright-cyan: #55c7e7;
+$deep-teal: #006858;
+$seafoam-blue: #80d2d5;
+$dull-orange: #f48423;
+$reddish-orange: #ef590e;
+$pea: #c2d028;
+$jungle-green: #0b9948;
+$sunflower-yellow: #f9d200;
+$pale: #f7ebcf;
+$warm-pink: #ff558b;
+$orangey-yellow: #f9a921;
+$white: #ffffff;
+$camo-green: #201c0d;
+$brown: #663300;
+
+$black: #000000;
+$white: #FFFFFF;
+$red: #d30000;
+$gray: #cccccc;
+
+//- -------------------------------------------------------- //
+//- ------------------------ FONTS ------------------------- //
+//- -------------------------------------------------------- //
+
+// akzidenz-grotesk-bq
+$font-family-akzidenz-grotesk-bq-name: 'Akzidenz-GroteskBQ';
+$font-family-akzidenz-grotesk-bq-file: 'AkzidenzGroteskBQ-MdCndAlt';
+$font-family-akzidenz-grotesk-bq: '#{$font-family-akzidenz-grotesk-bq-name}', var(--font-family-sans-serif);
+
+// akzidenz-grotesk-bq
+$font-family-akzidenz-grotesk-bq-bd-name: 'Akzidenz-GroteskBQ-Bd';
+$font-family-akzidenz-grotesk-bq-bd-file: 'AkzidenzGroteskBQ-BdCndAlt';
+$font-family-akzidenz-grotesk-bq-bd: '#{$font-family-akzidenz-grotesk-bq-bd-name}', var(--font-family-sans-serif);
+
+// akzidenz-grotesk-ce-roman
+$font-family-akzidenz-grotesk-ce-roman-name: 'Akzidenz Grotesk CE Roman';
+$font-family-akzidenz-grotesk-ce-roman-file: 'AkzidenzGroteskCE-Roman';
+$font-family-akzidenz-grotesk-ce-roman: '#{$font-family-akzidenz-grotesk-ce-roman-name}', var(--font-family-sans-serif);
+
+// akzidenz-grotesk-ce-black
+$font-family-akzidenz-grotesk-ce-black-name: 'Akzidenz Grotesk CE Black';
+$font-family-akzidenz-grotesk-ce-black-file: 'AkzidenzGroteskCE-Black';
+$font-family-akzidenz-grotesk-ce-black: '#{$font-family-akzidenz-grotesk-ce-black-name}', var(--font-family-sans-serif);
+
+//- --------------------------------------------------------- //
+//- ------------------- FIXED HEADER ------------------------ //
+//- --------------------------------------------------------- //
+$fixed-header-height: 99px;

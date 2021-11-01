@@ -1,0 +1,58 @@
+@import 'variables-mixins';
+
+// Style Root sen on nuxt.config
+$fonts-directory: '/fonts/';
+
+// Mixin to construct transfoirmed fonts
+@mixin fontFace ($name, $file, $fonts-directory: $fonts-directory) {
+  @font-face {
+    font-family: $name;
+    src: url('#{$fonts-directory}#{$file}.eot');
+    src: url('#{$fonts-directory}#{$file}.eot?#iefix') format('embedded-opentype'),
+        url('#{$fonts-directory}#{$file}.woff2') format('woff2'),
+        url('#{$fonts-directory}#{$file}.woff') format('woff'),
+        url('#{$fonts-directory}#{$file}.ttf') format('ttf'),
+        url('#{$fonts-directory}#{$file}.svg##{$font-family-akzidenz-grotesk-bq-file}') format('svg');
+    @content;
+  }
+}
+
+// akzidenz-grotesk-bq
+@include fontFace (
+  $font-family-akzidenz-grotesk-bq-name,
+  $font-family-akzidenz-grotesk-bq-file
+) {
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+// akzidenz-grotesk-bq-bd
+@include fontFace (
+  $font-family-akzidenz-grotesk-bq-bd-name,
+  $font-family-akzidenz-grotesk-bq-bd-file
+) {
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+// akzidenz-grotesk-ce-roman
+@include fontFace (
+  $font-family-akzidenz-grotesk-ce-roman-name,
+  $font-family-akzidenz-grotesk-ce-roman-file
+  ) {
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@include fontFace (
+  $font-family-akzidenz-grotesk-ce-black-name,
+  $font-family-akzidenz-grotesk-ce-black-file
+  ) {
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
